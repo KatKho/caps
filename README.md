@@ -9,10 +9,10 @@ CAPS - The Code Academy Parcel Service, a system that emulates a real world supp
 ## URLs
 
 - ![UML](./UML.png)
-- [PR 1](https://github.com/KatKho/caps/pull/1)
+- [PR](https://github.com/KatKho/caps/pull/1)
 - [GitHub Actions](https://github.com/KatKho/caps/actions)
 
 ## Contributors
 
-Ekaterina Khoroshilova
-ChatGPT has been utilized for tests
+- Ekaterina Khoroshilova
+- ChatGPT has been utilized for tests
