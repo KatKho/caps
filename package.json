@@ -2,16 +2,21 @@
   "name": "caps",
   "version": "1.0.0",
   "description": "",
-  "main": "hub.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest --verbose --coverage",
-    "start": "node hub.js"
+    "start": "node server/index.js",
+    "start-driver-server": "node clients/driver/index.js",
+    "start-vendor-server": "node clients/vendor/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "chance": "^1.1.11",
-    "jest": "^29.7.0"
+    "dotenv": "^16.3.1",
+    "jest": "^29.7.0",
+    "socket.io": "^4.7.2",
+    "socket.io-client": "^4.7.2"
   }
 }
