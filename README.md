@@ -11,6 +11,7 @@ CAPS - The Code Academy Parcel Service, a system that emulates a real world supp
 - ![UML](./UML.png)
 - [PR 1](https://github.com/KatKho/caps/pull/1)
 - [PR 2](https://github.com/KatKho/caps/pull/2)
+- [PR 4](https://github.com/KatKho/caps/pull/4)
 - [GitHub Actions](https://github.com/KatKho/caps/actions)
 - [Deployed](https://caps-5976.onrender.com)
 
